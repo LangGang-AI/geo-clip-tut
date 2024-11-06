@@ -1,5 +1,5 @@
 """
-Location Encoder Neural Network Module
+Location Encoder Module
 ====================================
 
 This module implements a sophisticated location encoding system using the Equal Earth map projection
